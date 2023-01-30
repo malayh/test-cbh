@@ -10,4 +10,5 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
 
 ## Your Explanation Here
 - Extracted methods `makeHash` to make the code more readable and to make it easier to test.
+- Extracted method `makeCandidate` to isolate the logic of creating a candidate.
 - Eliminated `else` blocks. I strongly prefer not using `else` blocks as much as possible and use the flow control as one of the conditional branch of execution. This makes the code more readable and easier to follow.
